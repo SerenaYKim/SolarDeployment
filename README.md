@@ -9,5 +9,14 @@ Abstract: Solar photovoltaic (PV) deployment plays a crucial role in the transit
 If you use this code for your publication, please cite the original paper:
 
 ```
-
+@article{kim2023spatial,
+  title={Spatial distribution of solar PV deployment: an application of the region-based convolutional neural network},
+  author={Kim, Serena Y and Ganesan, Koushik and Soderman, Crystal and O’Rourke, Raven},
+  journal={EPJ Data Science},
+  volume={12},
+  number={1},
+  pages={25},
+  year={2023},
+  publisher={Springer Berlin Heidelberg}
+}
 ```
